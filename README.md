@@ -1,2 +1,2 @@
 # Reeds-Shepp-Steering-Curves
-![alt-text](https://github.com/nikhil2020/Detection_of_parking_space_DL_Project/blob/master/parking_lot.jpg)
+![alt-text](https://github.com/nikhil2020/Reeds-Shepp-Steering-Curves/blob/master/Reeds%20Shepp.png)
